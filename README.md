@@ -5,7 +5,10 @@ Reusable Code Repo
 - [CoinMarketCapController](#coinmarketcapcontroller)
 
 
-#CoinMarketCapController
+
+
+##CoinMarketCapController
+
 
 
 Usage Example:
