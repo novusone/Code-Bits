@@ -6,8 +6,8 @@ Reusable Code Repo
 
 
 
-
-##CoinMarketCapController
+------------------------------------------
+## CoinMarketCapController
 
 
 
