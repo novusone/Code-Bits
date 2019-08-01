@@ -1,5 +1,4 @@
-# Code-Bits
-Reusable Code Repo
+# Code-Bits - Reusable Code Repo
 ------------------------------------------
 ## Table of Contents
 - [CoinMarketCapController](#coinmarketcapcontroller)
@@ -10,6 +9,9 @@ Reusable Code Repo
 ## CoinMarketCapController
 
 
+### Info
+You will need to obtain an API Key from [HERE](https://pro.coinmarketcap.com/signup) (create a free or paid account). Once you have your key you can then replace the text "YOU-CMC-API-KEY" with your key. From there you can use the functions within the controller.
+For more information on the API you can visit this link: [https://coinmarketcap.com/api/documentation/v1/](https://coinmarketcap.com/api/documentation/v1/)
 
 Usage Example:
 ```
